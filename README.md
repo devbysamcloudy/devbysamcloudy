@@ -20,7 +20,7 @@
 
 ## 👋 About
 
-I'm a software developer who started coding in **September 2024** and graduated from **Moringa School** (Software Development) in 2026. I'm currently a **software development intern** on an enterprise platform, and I take on **freelance** projects under **GaryTech**.
+I'm a software developer who started coding in **September 2023** and graduated from **Moringa School** (Software Development) in 2026. I'm currently a **software development intern** on an enterprise platform, and I took  on **freelance** projects under **GaryTech** for a short period of time.
 
 I learn by building, and I like understanding a system layer by layer, from the database to the UI, before I change it.
 
