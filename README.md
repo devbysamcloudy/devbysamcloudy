@@ -6,12 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=560&lines=Full-stack+Developer;Moringa+School+graduate;Shipping+real+software+as+a+dev+intern;Security-minded+by+default;Open+to+junior+full-stack+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=560&lines=Full-stack+Developer;Team+Leader;Moringa+School+graduate;Shipping+real+software+as+a+dev+intern;Security-minded+by+default;Open+to+junior+full-stack+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://portfolio-iota-three.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/samuel-ng-ang-a-065471391"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/-Moringa%20School%20Graduate-F15A24?style=for-the-badge" alt="Moringa School graduate" />
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
 </p>
 
@@ -22,6 +23,25 @@
 I'm a software developer who started coding in **September 2024** and graduated from **Moringa School** (Software Development) in 2026. I'm currently a **software development intern** on an enterprise platform, and I take on **freelance** projects under **GaryTech**.
 
 I learn by building, and I like understanding a system layer by layer, from the database to the UI, before I change it.
+
+## 🎓 Education
+
+**Moringa School, Nairobi · Software Development** · Graduated 2026
+
+An intensive, project-based program covering the full stack:
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Flask, REST API design, authentication
+- **Databases:** SQL, data modelling and ORMs
+- **Practices:** Git and GitHub workflows, testing, pair programming, Agile delivery
+- **Capstone and group projects:** built and shipped full-stack apps in teams under deadlines
+
+## 🧭 Leadership and teamwork
+
+- **Team leader** on team projects: I split the work into Jira stories, ran stand-ups and sprint planning, reviewed pull requests and kept delivery on schedule
+- **Design to code:** I turn Figma wireframes and prototypes into responsive, pixel-accurate UIs, and I mock up features in Figma before building them
+- **Agile/Scrum:** I work in sprints with backlog grooming, estimates and retros, tracked in Jira
+- **Mentoring:** I help teammates debug, walk them through Git workflows and code-review etiquette, and write docs so others can onboard fast
 
 ## 📊 At a glance
 
@@ -136,6 +156,13 @@ A full-stack store **plus a full back office**, built solo. **v1.0.0 released**;
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
+**Design and collaboration**
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Scrum](https://img.shields.io/badge/-Agile%20%2F%20Scrum-6E40C9?style=for-the-badge)
+
 **Also explored:** Phaser 3 (game dev), XGBoost (ML), OpenAI and Ollama integrations
 
 ## 📈 GitHub stats
@@ -147,6 +174,6 @@ A full-stack store **plus a full back office**, built solo. **v1.0.0 released**;
 
 ## 🤝 Let's work together
 
-I'm open to **junior full-stack roles** and **freelance projects**. If you need someone who ships, debugs patiently and keeps learning, let's talk.
+I'm open to **junior full-stack roles** and **freelance projects**. If you need someone who can lead a team, turn a Figma design into a shipped feature, debug patiently and keep learning, let's talk.
 
 📫 [Email](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/samuel-ng-ang-a-065471391) · [Portfolio](https://portfolio-iota-three.vercel.app/)
